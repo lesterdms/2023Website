@@ -138,14 +138,14 @@ themeButton.addEventListener('click', () => {
 
 // typing animation script
 var typed = new Typed(".typing",{
-    strings: ["Designer", "UI/UX Designer", "Game Developer", "Web Developer", "Freelancer"],
+    strings: ["Cloud Engineer", "Developer", "UI/UX Designer", "Designer", "Freelancer"],
     typeSpeed: 100,
     backSpeed: 60,
     loop: true
 });
 
 var typed = new Typed(".typing-2",{
-    strings: ["Designer", "UI/UX Designer", "Game Developer", "Web Developer", "Freelancer"],
+    strings: ["Cloud Engineer", "Developer", "UI/UX Designer", "Designer", "Freelancer"],
     typeSpeed: 100,
     backSpeed: 60,
     loop: true
