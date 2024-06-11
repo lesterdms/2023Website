@@ -488,18 +488,30 @@ img{
     width: 60%;
 }
 .skills__react{
-    width: 35%;
+    width: 45%;
 }
 .skills__python{
-    width: 50%;
+    width: 80%;
 }
 .skills__php{
     width: 80%;
 }
-.skills__firebase{
-    width: 55%;
+.skills__c{
+    width: 60%;
 }
 .skills__node{
+    width: 30%;
+}
+.skills__terraform{
+    width: 70%;
+}
+.skills__aws{
+    width: 65%;
+}
+.skills__arm{
+    width: 40%;
+}
+.skills__ansible{
     width: 30%;
 }
 .skills__photoshop{
